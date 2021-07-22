@@ -1,1 +1,1 @@
-guixu.site
+www.guixu.site
